@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Zilla+Slab:500,600,700');
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body * {
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+}
+
+$medium-blue: #2a6cb3;
+$light-blue: #65cbe3;
+$aqua: #51a8b1;
+$pink: #f06277;
+$green: #00a859;
+$white: #fff;
+$black: #000;

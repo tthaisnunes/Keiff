@@ -1,0 +1,166 @@
+@import '../../../styles.scss';
+.what-is-kefir {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  h2 {
+    font-size: 44pt;
+    color: $medium-blue;
+    text-align: center;
+    margin: 0;
+  }
+  p {
+    font-size: 14pt;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  &::before {
+    content: '';
+    background: url(../../../assets/images/pattern-01.svg) center top repeat-x;
+    height: 261px;
+    width: 100%;
+    top: -100px;
+    position: absolute;
+    z-index: 2;
+  }
+  &::after {
+    content: '';
+    background: url(../../../assets/images/pattern-02.svg) center top repeat-x;
+    height: 50px;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    z-index: 2;
+  }
+  .what-is-kefir__bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    img {
+      max-width: 50px;
+      position: absolute;
+    }
+    img.img-01 {
+      top: 30%;
+      left: 10%;
+      animation: float 6s ease-in-out infinite;
+    }
+    img.img-02 {
+      top: 45%;
+      left: 21%;
+      animation: float 4s ease-in-out infinite;
+    }
+    img.img-03 {
+      bottom: 30%;
+      left: 7%;
+      animation: float 5s ease-in-out infinite;
+    }
+    img.img-04 {
+      bottom: 16%;
+      left: 15%;
+      animation: float 4s ease-in-out infinite;
+    }
+    img.img-05 {
+      top: 36%;
+      right: 20%;
+      animation: float 5s ease-in-out infinite;
+    }
+    img.img-06 {
+      top: 26%;
+      right: 10%;
+      animation: float 6s ease-in-out infinite;
+    }
+    img.img-07 {
+      bottom: 37%;
+      right: 12%;
+      animation: float 7s ease-in-out infinite;
+    }
+    img.img-08 {
+      bottom: 17%;
+      right: 23%;
+      animation: float 9s ease-in-out infinite;
+    }
+  }
+}
+
+.benefits {
+  padding: 60px 15px;
+  max-width: 1170px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  .benefits__description {
+    width: 50%;
+    min-height: 50vh;
+    h2 {
+      font-size: 44pt;
+      color: $medium-blue;
+      margin: 0;
+    }
+    p {
+      font-size: 14pt;
+      color: #4d4d4f;
+    }
+  }
+  .benefits__image {
+    width: 50%;
+  }
+  .benefits__list {
+    width: 100%;
+    ul {
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      :nth-child(6),
+      :nth-child(2),
+      :nth-child(1),
+      :nth-child(8){
+        span {
+          margin-top:0;
+        }
+      }
+    }
+    li {
+      list-style: none;
+      width: 30%;
+      border-bottom: dashed $light-blue;
+      margin: 0 1%;
+      display: flex;
+      align-items: center;
+      p {
+        font-size: 16pt;
+        color: $light-blue;
+        font-weight: 500;
+        vertical-align: middle;
+      }
+      span {
+        font-family: 'Zilla Slab', serif;
+        font-weight: 600;
+        font-size: 50pt;
+        margin-right: 15px;
+        line-height: 1;
+        color: $light-blue;
+        margin-top:-20px;
+      }
+    }
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-30px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
