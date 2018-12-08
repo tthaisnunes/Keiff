@@ -17,3 +17,17 @@
 </body>
 
 </html>
+
+
+<script>
+  var map;
+  function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+      center: { lat: -34.397, lng: 150.644 },
+      zoom: 8
+    });
+  }
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9P4o1d8vl4is0RepT2TVZhJ4PqD3g8IQ&callback=initMap"
+  async defer></script>

@@ -1,3 +1,4 @@
+@import '../../../styles.scss';
 
 nav {
   position: relative;
@@ -16,6 +17,14 @@ nav {
   -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.14);
   -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.14);
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.14);
+
+  :nth-child(4):hover,
+  :nth-child(4):focus,
+  :nth-child(4):active,
+  :nth-child(4).active,
+   {
+    color:$pink;
+  }
 }
 
 @media (min-width: 768px) {
@@ -52,6 +61,7 @@ nav {
   text-align: center;
   padding: 10px;
   border-top: solid 1px #f0f0f0;
+  cursor: pointer;
 }
 
 .menu__item a {

@@ -1,0 +1,76 @@
+@import '../../../styles.scss';
+.internal-banner {
+  min-height: 70vh;
+  background: url(../../../assets/images/banner-onde-encontrar.jpg) center no-repeat;
+  background-size: cover;
+  position: relative;
+  &::after {
+    content: '';
+    background: url(../../../assets/images/pattern-pink-01.svg) center top repeat-x;
+    height: 200px;
+    width: 100%;
+    bottom: -50px;
+    position: absolute;
+    z-index: 2;
+  }
+}
+
+.map-section {
+  min-height: 100vh;
+  max-width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0;
+  h2 {
+    font-size: 28pt;
+    color: $pink;
+  }
+  form {
+    width: 50%;
+    display: flex;
+    input {
+      flex: 1;
+    }
+    button,
+    input {
+      border: solid 1px #4d4d4f;
+      color: #4d4d4f;
+      background: #fff;
+      padding: 15px;
+    }
+  }
+}
+
+.address-list {
+  width: 60%;
+  max-height: 300px;
+  overflow-y: scroll;
+  border: solid 1px #4d4d4f;
+  margin: 40px 0;
+  ul {
+    padding-left: 0;
+    margin: 0;
+    li {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: solid 1px #4d4d4f;
+      padding: 0 15px;
+      box-sizing: content-box;
+      a {
+        color: #000;
+        font-weight: bold;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+#map {
+  width: 60%;
+  height: 500px;
+}

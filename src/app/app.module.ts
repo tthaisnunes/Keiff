@@ -10,6 +10,7 @@ import { BannerComponent } from './common/banner/banner.component';
 import { ProductsComponent } from './common/products/products.component';
 import { InstagramPostsComponent } from './common/instagram-posts/instagram-posts.component';
 import { FooterComponent } from './common/footer/footer.component';
+import { WhereToFindComponent } from './pages/where-to-find/where-to-find.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FooterComponent } from './common/footer/footer.component';
     BannerComponent,
     ProductsComponent,
     InstagramPostsComponent,
-    FooterComponent
+    FooterComponent,
+    WhereToFindComponent
   ],
   imports: [
     BrowserModule,
