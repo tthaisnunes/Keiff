@@ -23,7 +23,6 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "tiny-slider": "^2.8.8",
-    "tns": "^0.2.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
