@@ -8,6 +8,7 @@ import { NavComponent } from './common/nav/nav.component';
 import { HomeComponent } from './pages/home/home.component';
 import { BannerComponent } from './common/banner/banner.component';
 import { ProductsComponent } from './common/products/products.component';
+import { InstagramPostsComponent } from './common/instagram-posts/instagram-posts.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { ProductsComponent } from './common/products/products.component';
     NavComponent,
     HomeComponent,
     BannerComponent,
-    ProductsComponent
+    ProductsComponent,
+    InstagramPostsComponent
   ],
   imports: [
     BrowserModule,

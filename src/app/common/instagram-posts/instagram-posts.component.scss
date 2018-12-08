@@ -1,0 +1,62 @@
+.intagram-posts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 60px 0 100px;
+  min-height: 100vh;
+  background: url(../../../assets/images/pattern-04.svg) bottom repeat-x rgba(101, 203, 227, .1);
+  background-size: 80em;
+  box-sizing: border-box;
+}
+
+.intagram-posts .intagram-posts__title {
+  color: #2a6cb3;
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+}
+
+.intagram-posts .intagram-posts__description {
+  font-size: 15px;
+  text-align: center;
+}
+
+.intagram-posts .container-slider {
+  padding: 0 40px;
+  margin: 40px 0 0;
+}
+
+.slider-instagram-posts .slider-instagram-posts__image {
+  height: 300px;
+  width: 100%;
+  background-position: center;
+}
+
+.slider-instagram-posts__controls li {
+  position: absolute;
+  top: 40%;
+  list-style: none;
+}
+
+.slider-instagram-posts__controls img {
+  width: 20px;
+}
+
+.slider-instagram-posts__controls .prev {
+  left: 0;
+}
+
+.slider-instagram-posts__controls .next {
+  right: 0;
+}
+
+.slider {
+  position: relative;
+  background: #f0f0f0;
+}
+
+.container-slider {
+  width: 90%;
+  position: relative;
+}
