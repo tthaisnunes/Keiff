@@ -1,0 +1,131 @@
+@import '../../../styles.scss';
+
+footer {
+  padding: 60px 0 0;
+  color: #fff;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: content-box;
+}
+
+footer.blue{
+  background: $medium-blue;
+}
+
+footer.pink{
+  background: $pink;
+}
+
+footer.green {
+  background: $green;
+}
+
+footer.aqua {
+  background: $aqua;
+}
+
+
+.footer__content {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.footer__logo {
+  min-width: 140px;
+}
+
+footer .footer__links {
+  margin: 10px 0 0;
+  display: flex;
+  justify-content: space-around;
+  ul {
+    padding: 0;
+  }
+  li {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    font-weight: 300;
+  }
+}
+
+footer .footer__list {
+  margin:0;
+}
+
+footer .footer__list ul{
+  margin:0;
+}
+
+footer .footer__list li {
+  margin: 0 0 20px;
+}
+
+footer .footer__list li a {
+  font-size: 18px;
+  color: #fff;
+}
+
+.footer__social-network {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  justify-content: flex-start;
+  p {
+    margin: 0;
+  }
+  img {
+    width: 25px;
+    margin: 0 0 0 5px;
+  }
+}
+
+.newsletter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  p {
+    margin-top:0;
+  }
+}
+
+.newsletter form {
+  display: flex;
+}
+
+.newsletter input {
+  background: transparent;
+  border: solid 1px #fff;
+  color: #fff;
+  // height: 40px;
+  padding: 10px;
+  width: 70%;
+
+}
+
+.newsletter button {
+  background: transparent;
+  border: solid 1px #fff;
+  color: #fff;
+  height: 40px;
+  width: 30%;
+  font-size: 12px;
+}
+
+.partners img {
+  min-width: 60px;
+  margin-right: 60px;
+}
+
+.footer__copyright {
+  text-align: center;
+  margin-top:40px;
+  a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+}

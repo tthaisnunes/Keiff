@@ -9,6 +9,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { BannerComponent } from './common/banner/banner.component';
 import { ProductsComponent } from './common/products/products.component';
 import { InstagramPostsComponent } from './common/instagram-posts/instagram-posts.component';
+import { FooterComponent } from './common/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { InstagramPostsComponent } from './common/instagram-posts/instagram-post
     HomeComponent,
     BannerComponent,
     ProductsComponent,
-    InstagramPostsComponent
+    InstagramPostsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
