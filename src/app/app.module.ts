@@ -11,6 +11,12 @@ import { ProductsComponent } from './common/products/products.component';
 import { InstagramPostsComponent } from './common/instagram-posts/instagram-posts.component';
 import { FooterComponent } from './common/footer/footer.component';
 import { WhereToFindComponent } from './pages/where-to-find/where-to-find.component';
+import { AgmCoreModule, GoogleMapsAPIWrapper } from '@agm/core';
+import { AgmSnazzyInfoWindowModule } from '@agm/snazzy-info-window';
+
+import { WhereToFindService } from './pages/where-to-find/where-to-find.service';
+import { HttpModule } from '@angular/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -26,9 +32,16 @@ import { WhereToFindComponent } from './pages/where-to-find/where-to-find.compon
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    HttpModule,
+		HttpClientModule,
+    BrowserAnimationsModule,
+    AgmCoreModule.forRoot({apiKey: 'AIzaSyBv2Pr-oQoTF9UuMvlxRXvtFyyonlMOHMU'}),
+    AgmSnazzyInfoWindowModule
   ],
-  providers: [],
+  providers: [
+    GoogleMapsAPIWrapper,
+    WhereToFindService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

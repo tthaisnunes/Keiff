@@ -29,6 +29,9 @@
     top: -100px;
     position: absolute;
     z-index: 2;
+    @media (max-width: 768px) {
+      display: none;
+    }
   }
 
   &::after {
@@ -39,6 +42,9 @@
     bottom: 0;
     position: absolute;
     z-index: 2;
+    @media (max-width: 768px) {
+      display: none;
+    }
   }
 
   .what-is-kefir__bg {
@@ -49,6 +55,10 @@
     img {
       max-width: 50px;
       position: absolute;
+
+      @media (max-width: 768px) {
+        display: none;
+      }
     }
 
     img.img-01 {
@@ -105,19 +115,29 @@
   padding: 60px 15px;
   max-width: 1170px;
   margin: 0 auto;
-  min-height: 100vh;
+  // min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+
   .benefits__description {
     width: 50%;
+    padding-right: 30px;
+    box-sizing: border-box;
 
     h2 {
       font-size: 44pt;
       color: $medium-blue;
       margin: 0;
+
+      @media (max-width: 768px) {
+        font-size: 20pt;
+      }
     }
 
     p {
@@ -139,6 +159,10 @@
       flex-wrap: wrap;
       justify-content: space-between;
 
+      @media (max-width: 768px) {
+        flex-direction: column;
+      }
+
       :nth-child(6),
       :nth-child(2),
       :nth-child(1),
@@ -156,6 +180,10 @@
       margin: 0 1%;
       display: flex;
       align-items: center;
+
+      @media (max-width:768px) {
+        width: 100%;        
+      }
 
       p {
         font-size: 16pt;
@@ -192,10 +220,10 @@
 }
 
 .recipe {
-  min-height: 100vh;
+  // min-height: 100vh;
   padding: 100px 0;
   background: url(../../../assets/images/pattern-03.svg) center;
-  background-size: cover;
+  background-size: 417px;
   display: flex;
   align-items: center;
 }
@@ -209,6 +237,12 @@
   display: flex;
   max-width: 1170px;
   margin: 0 auto;
+
+  @media (max-width:768px) {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 
   h2 {
     color: $light-blue;

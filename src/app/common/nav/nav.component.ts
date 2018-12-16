@@ -10,6 +10,17 @@ export class NavComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+    let prevScrollpos = window.pageYOffset;
+    window.onscroll = function () {
+      const currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById('menu').classList.remove('menu--hidden');
+      } else {
+        document.getElementById('menu').classList.add('menu--hidden');
+      }
+      prevScrollpos = currentScrollPos;
+    };
   }
 
 }
