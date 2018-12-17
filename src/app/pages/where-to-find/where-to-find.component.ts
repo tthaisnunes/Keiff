@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { WhereToFindService } from '../where-to-find/where-to-find.service';
+import { ElementRef, NgZone, ViewChild } from '@angular/core';
+import { FormControl } from '@angular/forms';
+import { MapsAPILoader } from '@agm/core';
+
 
 @Component({
   selector: 'app-where-to-find',
@@ -16,9 +20,17 @@ export class WhereToFindComponent implements OnInit {
   }
   showItem = [];
 
+  @ViewChild("search")
+  public searchElementRef: ElementRef;
+
+
   constructor(
-    private whereToFindService: WhereToFindService
+    private whereToFindService: WhereToFindService,
+    private mapsAPILoader: MapsAPILoader,
+    private ngZone: NgZone
   ) { }
+
+
 
   ngOnInit() {
     this.whereToFindService.getAddress()
@@ -27,10 +39,35 @@ export class WhereToFindComponent implements OnInit {
         this.locationsArray.forEach((el, idx) => {
           this.showItem.push(false);
         });
-      })
+      });
+
+
+    this.mapsAPILoader.load().then(() => {
+      let autocomplete = new google.maps.places.Autocomplete(
+        this.searchElementRef.nativeElement, {
+          types: ['address']
+        });
+      autocomplete.addListener('place_changed', () => {
+        this.ngZone.run(() => {
+          // get the place result
+          let place: google.maps.places.PlaceResult = autocomplete.getPlace();
+          // add map calls here
+          this.center = {
+            Latitude: place.geometry.location.lat(),
+            Longitude: place.geometry.location.lng(),
+            zoon: 15
+          }
+        });
+      });
+    });
   }
 
+
   showOnGoogle(lat, long, idx) {
+    this.showItem.forEach((el, idx) => {
+      this.showItem[idx] = false;
+    });
+
     this.center = {
       Latitude: lat,
       Longitude: long,

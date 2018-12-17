@@ -2,13 +2,799 @@
   {
     "Latitude": -22.9838792,
     "Longitude": -43.2046212,
-    "Nome": "Mundo verde Top Center Paulista",
-    "Endereco": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01310-100"
+    "Nome": "Armazem 14 Ipanema",
+    "Endereco": "Rua Visconde de Pirajá - 330 - Lj 109 - Ipanema - 22410-000 - Rio de Janeiro - RJ"
   },
   {
     "Latitude": -22.985073,
     "Longitude": -43.2263706,
-    "Nome": "Mundo verde Top Center Paulista",
-    "Endereco": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01310-100"
+    "Nome": "ARMAZEM 14 LEBLON",
+    "Endereco": "AV ATAULFO DE PAIVA - 1100 - LOJA C - LEBLON - 22440-035 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9319198,
+    "Longitude": -43.1800323,
+    "Nome": "ARMAZÉM 21",
+    "Endereco": "Rua das Laranjeiras - 21 - LOJA D - Laranjeiras - 22240-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9532226,
+    "Longitude": -43.1897549,
+    "Nome": "BIO MUNDO BOTAFOGO",
+    "Endereco": "R VOLUNTARIOS DA PATRIA - 234 - BOTAFOGO - 22270-014 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9583435,
+    "Longitude": -43.1998474,
+    "Nome": "Carioca Zen",
+    "Endereco": "Rua do Humaitá - 154 - Humaitá - 22261-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.7613574,
+    "Longitude": -43.4508671,
+    "Nome": "CASA DIMINAS",
+    "Endereco": "R GETULIO VARGAS, 80, LOJA 10, 26255-060 - Nova Iguaçu - RJ"
+  },
+  {
+    "Latitude": -22.9743935,
+    "Longitude": -43.4136411,
+    "Nome": "DELI DELÍCIA MAP BAND",
+    "Endereco": "EST DOS BANDEIRANTES - 8591 - LOJA 1025 E 1026 - JACAREPAGUA - 22783-115 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0122801,
+    "Longitude": -43.3054538,
+    "Nome": "DELI DELÍCIA OLEGÁRIO MACIEL",
+    "Endereco": "AV OLEGARIO MACIEL - 293 - LOJA: A / B; - BARRA DA TIJUCA - 22621-200 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9896669,
+    "Longitude": -43.3512914,
+    "Nome": "DELI DELÍCIA PENINSULA",
+    "Endereco": "AV DOS FLAMBOYANTS DA PENINSULA - 855 - LOJA: 108; - BARRA DA TIJUCA - 22776-070 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9486163,
+    "Longitude": -43.1862547,
+    "Nome": "DELI DELÍCIA SAO CLEMENTE",
+    "Endereco": "R SAO CLEMENTE - 114 - BLOCO 1 LOJA A - BOTAFOGO - 22260-002 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0017506,
+    "Longitude": -43.3961603,
+    "Nome": "DELI DELÍCIA VOGUE",
+    "Endereco": "AV DAS AMERICAS - 8585 - LOJA 116 A 121 - BARRA DA TIJUCA - 22793-081 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9984433,
+    "Longitude": -43.3575606,
+    "Nome": "DNA EMPORIO BARRA SHOPPING",
+    "Endereco": "AV DAS AMERICAS - 4666 - 106P28- NIVEL LAGOA - BARRA DA TIJUCA - 22640-102 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9824438,
+    "Longitude": -43.2169268,
+    "Nome": "DNA EMPORIO LEBLON",
+    "Endereco": "AV. AFRANIO DE MELO FRANCO - 290 - Loja 417 - Leblon - 22430-060 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.760776,
+    "Longitude": -43.4563209,
+    "Nome": "Empório Vila Verde",
+    "Endereco": "R COMENDADOR SOARES, 248, 26255-350 - Nova Iguaçu - RJ"
+  },
+  {
+    "Latitude": -23.0028545,
+    "Longitude": -43.3219281,
+    "Nome": "Emporium Produtos Naturais",
+    "Endereco": "AV. DAS AMERICAS - 700 - BLOCO 08, LOJA 107 E - BARRA DA TIJUCA - 22640-100 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9555617,
+    "Longitude": -43.1963741,
+    "Nome": "FARINHA PURA",
+    "Endereco": "R VOLUNTARIOS DA PATRIA - 446 - LJS INTERNAS 01 , 08 A 12 , 14 E 46 PISO INFERIOR - HUMAITA - 22270-010 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9840606,
+    "Longitude": -43.2130981,
+    "Nome": "FONTES",
+    "Endereco": "Rua Visconde de Pirajá - 605 - L/M/N - Ipanema - 22410-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9835878,
+    "Longitude": -43.2010714,
+    "Nome": "NEW NATURAL ",
+    "Endereco": "R. Barão da Torre, 171 - Ipanema, Rio de Janeiro - RJ, 22411-000"
+  },
+  {
+    "Latitude": -22.9321372,
+    "Longitude": -43.1808268,
+    "Nome": "Grão Integral",
+    "Endereco": "Rua das Laranjeiras - 43 - 13 - Laranjeiras - 22240-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9844395,
+    "Longitude": -43.2061279,
+    "Nome": "GREEN DELI IPANEMA",
+    "Endereco": "R VISCONDE DE PIRAJA - 365 - B LOJA II - IPANEMA - 22410-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9823556,
+    "Longitude": -43.2163432,
+    "Nome": "GREEN DELI LEBLON",
+    "Endereco": "AV AFRANIO DE MELO FRANCO - 290 - PISO L2 QUIOSQUE LOUNGE L2 - LEBLON - 22430-060 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9687178,
+    "Longitude": -43.1856275,
+    "Nome": "HERBORISTA",
+    "Endereco": "RUA BARATA RIBEIRO - 407 - LOJA A - COPACABANA - 22051-002 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9724849,
+    "Longitude": -43.3924623,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Avenida Embaixador Abelardo Bueno, 2950, Barra da Tijuca, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -23.0011377,
+    "Longitude": -43.3719391,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Avenida das Américas, 6471, Barra da Tijuca, Rio de Janeiro RJ"
+  },
+  {
+    "Latitude": -23.000814,
+    "Longitude": -43.3428106,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Avenida das Américas, 3255, Loja 113, Barra da Tijuca, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -23.002047,
+    "Longitude": -43.4236186,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Avenida das Américas, 12600, Barra da Tijuca, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -23.007423,
+    "Longitude": -43.316844,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Praça Professor Souza Araújo, 390 Barra da Tijuca, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9484917,
+    "Longitude": -43.1644837,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Marechal Cantuária, 172, Urca, 22291-060, Rio de Janeiro/RJ "
+  },
+  {
+    "Latitude": -22.9526222,
+    "Longitude": -43.1842885,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Prof. Álvaro Rodrigues, 355 - Botafogo - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9544526,
+    "Longitude": -43.1922486,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Voluntários da Pátria, 323, Copacabana, Rio de JaneiroRJ"
+  },
+  {
+    "Latitude": -22.9628636,
+    "Longitude": -43.1756065,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Av. Prado Júnior, 281 - Copacabana - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9724285,
+    "Longitude": -43.1898439,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Dias da Rocha, 45 - Copacabana - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9674804,
+    "Longitude": -43.1855748,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Siqueira Campos, 74 - Copacabana - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9314003,
+    "Longitude": -43.176646,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Machado de Assis, 65 - Flamengo Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9394877,
+    "Longitude": -43.1783735,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Marques de Abrantes, nº 192, BLC 1, Loja A, Flamengo, Rio de Janeiro/ RJ"
+  },
+  {
+    "Latitude": -22.923477,
+    "Longitude": -43.258669,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Barão do Bom Retiro, 2.683 Lj. A - Grajaú, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.8039335,
+    "Longitude": -43.2036107,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Estrada do Galeão, 2220, Jardim Carioca, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9837386,
+    "Longitude": -43.1984098,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Teixeira de Melo, 54, Ipanema, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.933695,
+    "Longitude": -43.1857207,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua das Laranjeiras, 211 - Laranjeiras - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9795417,
+    "Longitude": -43.2233013,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Adalberto Ferreira, 18, Leblon, Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9853535,
+    "Longitude": -43.2285172,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Dias Ferreira, 57 - Leblon - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.977044,
+    "Longitude": -43.230089,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "R. Marquês de São Vicente, 115 - Gávea, , 22451-041, Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0135019,
+    "Longitude": -43.4607446,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Av. das Américas, 15109, Recreio dos Bandeirantes, Rio de Janeiro, RJ"
+  },
+  {
+    "Latitude": -22.9249068,
+    "Longitude": -43.2282299,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Conde de Bonfim, 199 - Tijuca, Rio de Janeiro, RJ"
+  },
+  {
+    "Latitude": -22.9269558,
+    "Longitude": -43.2443106,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Uruguai, 213 - Tijuca - Rio de Janeiro/RJ"
+  },
+  {
+    "Latitude": -22.9150797,
+    "Longitude": -43.2412299,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Av. 28 de Setembro, 185 - Vila Isabel, Rio de Janeiro, RJ"
+  },
+  {
+    "Latitude": -22.9033964,
+    "Longitude": -43.1142768,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Coronel Moreira César, 35 - Icaraí - Niterói/RJ"
+  },
+  {
+    "Latitude": -22.8967898,
+    "Longitude": -43.1125464,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Marquês de Paraná, 312 - Centro - Niterói/RJ"
+  },
+  {
+    "Latitude": -22.9367206,
+    "Longitude": -43.0629678,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Est. Francisco da Cruz Nunes, 5770 - Piratininga, Niterói, RJ"
+  },
+  {
+    "Latitude": -22.8977141,
+    "Longitude": -43.1026382,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Noronha Torrezão, 43, Santa Rosa, Niterói, RJ"
+  },
+  {
+    "Latitude": -22.8874088,
+    "Longitude": -42.0300473,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Av. Teixeira e Souza, 1.441 A - Braga - Cabo Frio/RJ"
+  },
+  {
+    "Latitude": -21.757303,
+    "Longitude": -41.330046,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Tenente Coronel Cardoso, 668 - Centro, Campos, RJ"
+  },
+  {
+    "Latitude": -22.3777207,
+    "Longitude": -41.7778838,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Vereador Manoel Braga, 83 - Centro, Macaé, RJ"
+  },
+  {
+    "Latitude": -22.5269357,
+    "Longitude": -41.950958,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Av. Brasil, 10, Rio das Ostras, RJ"
+  },
+  {
+    "Latitude": -22.517439,
+    "Longitude": -44.1067358,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua 14, Nº 344, Vila Santa Cecília, Volta redonda, RJ"
+  },
+  {
+    "Latitude": -22.9842267,
+    "Longitude": -43.20496929999999,
+    "Nome": "Mercado Hortifruti",
+    "Endereco": "Rua Visconde de Pirajá, 22, Loja A e B, sala 101, IPANEMA, CEP:22410-000,  Rio de Janeiro, RJ"
+  },
+  {
+    "Latitude": -22.9528515,
+    "Longitude": -43.1878463,
+    "Nome": "KORIN BOTAFOGO",
+    "Endereco": "R. VOLUNTARIOS DA PATRIA - 185 - LOJA - BOTAFOGO - 22270-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9492983,
+    "Longitude": -43.1881555,
+    "Nome": "Cestto",
+    "Endereco": "R.São Clemente, 172, Loja D, Botafogo,  22260-002 Rio de Janeiro/ RJ"
+  },
+  {
+    "Latitude": -22.9642743,
+    "Longitude": -43.1766346,
+    "Nome": "Korin Copacabana",
+    "Endereco": "R. MINISTRO VIVEIROS DE CASTRO - 79 - LOJA B - COPACABANA - 22021-010 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.984013,
+    "Longitude": -43.2167594,
+    "Nome": "Korin Leblon",
+    "Endereco": "RUA ALMIRANTE PEREIRA GUIMARÃES - 72 - Loja B - Leblon - 22440-005 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9036386,
+    "Longitude": -43.1123865,
+    "Nome": "Korin Icaraí",
+    "Endereco": "R DOUTOR TAVARES DE MACEDO, 96, LOJA 101, 24220-211, Niterói, RJ"
+  },
+  {
+    "Latitude": -22.98402,
+    "Longitude": -43.2118568,
+    "Nome": "La Fruteria",
+    "Endereco": "Rua Visconde de Pirajá - 559 - Loja A - Ipanema - 22410-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9148287,
+    "Longitude": -43.2193653,
+    "Nome": "Light & Delight Produtos Naturais",
+    "Endereco": "Rua Mariz e Barros - 553 - Lj B - Tijuca - 20270-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9843632,
+    "Longitude": -43.1989296,
+    "Nome": "Mercado Zona Sul ",
+    "Endereco": "R VISCONDE DE PIRAJA - 118 - 122 124 128 A - IPANEMA - 22410-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9848676,
+    "Longitude": -43.1961534,
+    "Nome": "Mercado Zona Sul",
+    "Endereco": "R VISCONDE DE PIRAJA - 25 - LOJAS A B - IPANEMA - 22410-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9855172,
+    "Longitude": -43.1926624,
+    "Nome": "Mercado Zona Sul ",
+    "Endereco": "AV RAINHA ELIZABETH - 325 - 333 - COPACABANA - 22081-030 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0139316,
+    "Longitude": -43.4624469,
+    "Nome": "Mercado Zona Sul ",
+    "Endereco": "AV DAS AMERICAS - 16237 - E 15515 - REC DOS BANDEIRANTES - 22790-701 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9833336,
+    "Longitude": -43.21988349999999,
+    "Nome": "Mercado Zona Sul ",
+    "Endereco": "R CARLOS GOES - 344 - 332-A TERCEIRA PORTA - LEBLON - 22440-040 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9636775,
+    "Longitude": -43.1716941,
+    "Nome": "Mercado Zona Sul ",
+    "Endereco": "R GUSTAVO SAMPAIO - 679 - 679 A/B - LEME - 22010-010 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9805949,
+    "Longitude": -43.2243854,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV BARTOLOMEU MITRE - 705 - LOJA A - LEBLON - 22431-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0013661,
+    "Longitude": -43.35005820000001,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV DAS AMERICAS - 3665 - LOJA A - BARRA DA TIJUCA - 22631-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9813293,
+    "Longitude": -43.1913437,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV NOSSA SENHORA DE COPACABANA - 1200 - A - COPACABANA - 22020-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9757749,
+    "Longitude": -43.1894025,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV NOSSA SENHORA DE COPACABANA - 936/40 - R.BOLIVAR,64 S/201/68 - COPACABANA - 22060-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9445552,
+    "Longitude": -43.1855937,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R BAMBINA - 36 - BOTAFOGO - 22251-050 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9345469,
+    "Longitude": -43.1753137,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R SENADOR VERGUEIRO - 51 - LOJAS A/B - FLAMENGO - 22230-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9961497,
+    "Longitude": -43.2608378,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "EST DA GAVEA - 870 - SAO CONRADO - 22610-002 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0121897,
+    "Longitude": -43.3115823,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV ERICO VERISSIMO - 565 - BARRA DA TIJUCA - 22621-180 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9698866,
+    "Longitude": -43.1853307,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV NOSSA SENHORA DE COPACABANA - 591 - E 595 - COPACABANA - 22020-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.984175,
+    "Longitude": -43.2123522,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R VISCONDE DE PIRAJA - 577 - LOJA A - IPANEMA - 22410-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9485105,
+    "Longitude": -43.1643283,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R MARECHAL CANTUARIA - 178-A - LOJA - URCA - 22291-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9393963,
+    "Longitude": -43.1779892,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R MQRQUES DE ABRANTES - 181 - LOJA A - FLAMENGO - 22230-060 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.960637,
+    "Longitude": -43.2052856,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R JARDIM BOTANICO - 81 - LOJA - JARDIM BOTANICO - 22470-050 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.956979,
+    "Longitude": -43.1990387,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R HUMAITA - 110 - LOJA A, B, C, D, E - HUMAITA - 22261-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.0096713,
+    "Longitude": -43.3450088,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV LUCIO COSTA - 4.700 - SETOR 1 LOJA A - BARRA DA TIJUCA - 22630-011 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9018157,
+    "Longitude": -43.1777218,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R DA ALFANDEGA - 33 - LOJA A SLJ SUBSL - CENTRO - 20070-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9750628,
+    "Longitude": -43.2265288,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "AV RODRIGO OTAVIO - 269 - LOJAS B C - GAVEA - 22450-060 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.98384,
+    "Longitude": -43.210107,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R VISCONDE DE PIRAJA - 504 - 508 - IPANEMA - 22410-002 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.985859,
+    "Longitude": -43.1973295,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "R PRUDENTE DE MORAIS - 49 - R GOMES CARNEIRO 29 - IPANEMA - 22420-041 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -23.00312,
+    "Longitude": -44.3000397,
+    "Nome": " Mercado Zona Sul ",
+    "Endereco": "Estr. das Marinas, 200 - Praia da Chácara - 23906-800 - Angra dos Reis - RJ"
+  },
+  {
+    "Latitude": -22.8363134,
+    "Longitude": -43.2637481,
+    "Nome": "Megabox ",
+    "Endereco": "R. Cmte. Vergueiro da Cruz, 380 - Olaria - 21021-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9411049,
+    "Longitude": -43.1919989,
+    "Nome": "MAYA CAFÉ LARANJEIRAS",
+    "Endereco": "RUA PROFESSOR ORTIZ MONTEIRO - 15 - LOJA B - LARANJEIRAS - 22245-100 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9855788,
+    "Longitude": -43.2263112,
+    "Nome": "MUNDO VERDE BAIXO LEBLON",
+    "Endereco": "Rua Rainha Guilhermina - 90 - Loja A - Leblon - 22441-120 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.54508,
+    "Longitude": -44.170623,
+    "Nome": "MUNDO VERDE BARRA MANSA",
+    "Endereco": "AV. JOAQUIM LEITE, 328, Centro, 27330-043, Barra Mansa - RJ"
+  },
+  {
+    "Latitude": -22.9476216,
+    "Longitude": -43.1831347,
+    "Nome": "Mundo Verde Botafogo Praia Shopping",
+    "Endereco": "Praia de Botafogo - 400 - Lj 110 e 111 - Botafogo - 22250-040 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9843101,
+    "Longitude": -43.2084194,
+    "Nome": "Mundo Verde Ipanema",
+    "Endereco": "R VISCONDE DE PIRAJA - 443 - LOJA: C - IPANEMA - 22410-002 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.983997,
+    "Longitude": -43.21958670000001,
+    "Nome": "MUNDO VERDE LEBLON",
+    "Endereco": "Av. Ataulfo de Paiva - 375 - Lojas A/B - Leblon - 22440-032 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9994855,
+    "Longitude": -43.4144768,
+    "Nome": "Mundo Verde Map Barra",
+    "Endereco": "AV DAS AMERICAS - 10200 - BOX 01 - BARRA DA TIJUCA - 22793-082 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9025949,
+    "Longitude": -43.185916,
+    "Nome": "MUNDO VERDE MARECHAL FLORIANO",
+    "Endereco": "AV MARECHAL FLORIANO - 169 - CENTRO - 20080-005 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.910303,
+    "Longitude": -43.1746567,
+    "Nome": "MUNDO VERDE MÉXICO",
+    "Endereco": "RUA MEXICO - 74 - LOJA A - CENTRO - 20031-141 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.7609419,
+    "Longitude": -43.4505406,
+    "Nome": "Mundo Verde Nova Iguaçu Getúlio Vargas",
+    "Endereco": "R GETULIO VARGAS, 20, 26255-060 - Nova Iguaçu - RJ"
+  },
+  {
+    "Latitude": -22.7585818,
+    "Longitude": -43.4505282,
+    "Nome": "Mundo Verde Nova Iguaçu Otávio Tarquino",
+    "Endereco": "R OTAVIO TARQUINO, 165, LOJA, 26210-171 - Nova Iguaçu - RJ"
+  },
+  {
+    "Latitude": -23.0099931,
+    "Longitude": -43.3049005,
+    "Nome": "Mundo Verde Olegário",
+    "Endereco": "Av. Olegário Maciel - 519 - LOJA F - Barra da Tijuca - 22621-200 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.989519,
+    "Longitude": -43.3513667,
+    "Nome": "Mundo Verde Península",
+    "Endereco": "AV. FLAMBOYANTS DA PENINSULA - 855 - LOJA 113 - BARRA DA TIJUCA - 22776-070 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.4647127,
+    "Longitude": -44.44764259999999,
+    "Nome": "MUNDO VERDE RESENDE",
+    "Endereco": "AV ALBINO DE ALMEIDA, 138, LOJA B, 27542-070 - Resende - RJ"
+  },
+  {
+    "Latitude": -22.9572162,
+    "Longitude": -43.1761896,
+    "Nome": "Mundo Verde Rio Sul",
+    "Endereco": "Av. Lauro Muller - 116 - Loja 101 - Botafogo - 22290-070 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9058521,
+    "Longitude": -43.1763906,
+    "Nome": "Mundo Verde São José",
+    "Endereco": "RUA SÃO JOSÉ - 80 - CENTRO - 20010-020 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9752405,
+    "Longitude": -43.2284282,
+    "Nome": "MUNDO VERDE SHOPPING DA GÁVEA",
+    "Endereco": "Rua Marquês de São Vicente - 52 - Loja 126 - Gávea - 22451-040 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.8634553,
+    "Longitude": -43.2539582,
+    "Nome": "Mundo Verde Bonsucesso ",
+    "Endereco": "Rua Cardoso de Morais, 134, Bonsucesso, Rio De Janeiro - RJ, CEP: 21032-000"
+  },
+  {
+    "Latitude": -22.5180769,
+    "Longitude": -44.1057692,
+    "Nome": "Mundo Verde Volta Redonda",
+    "Endereco": "Rua Dezesseis - 69 - Vila Santa Cecília - 27260-110 - Volta Redonda - RJ"
+  },
+  {
+    "Latitude": -22.9536325,
+    "Longitude": -43.1912518,
+    "Nome": "Mundo Verde Voluntários",
+    "Endereco": "RUA VOLUNTARIOS DA PATRIA - 270 - LOJA A - Botafogo - 22270-010 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.955969,
+    "Longitude": -43.196862,
+    "Nome": "Mundo Verde Voluntários Galeria",
+    "Endereco": "RUA VOLUNTARIOS DA PATRIA - 455 - Lj 110 - Botafogo - 22270-000 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.984548,
+    "Longitude": -43.2039832,
+    "Nome": "Nação Verde Ipanema",
+    "Endereco": "RUA VISCONDE DE PIRAJÁ - 281 - LOJA A - IPANEMA - 22410-001 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9229668,
+    "Longitude": -43.2348818,
+    "Nome": "Natudiet",
+    "Endereco": "Rua Barão de Mesquita - 280 - 285 G - Tijuca - 20540-003 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9307748,
+    "Longitude": -43.17718,
+    "Nome": "Natural & Tal",
+    "Endereco": "Rua do Catete - 311 - Lj 118 - Catete - 22220-901 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9851501,
+    "Longitude": -43.2241896,
+    "Nome": "Na Venda",
+    "Endereco": "Rua General Urquiza - 67 - Loja C - Leblon - 22431-040 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9926818,
+    "Longitude": -43.3654006,
+    "Nome": "ORGANOMIX",
+    "Endereco": "AV AYRTON SENNA - 02150 - BLC P LOJA A B C - BARRA DA TIJUCA - 22775-900 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9976527,
+    "Longitude": -43.35984209999999,
+    "Nome": "PRANA",
+    "Endereco": "Av. das Américas - 4666 - Lj 141 - Barra - 22640-102 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.974578,
+    "Longitude": -43.1881388,
+    "Nome": "SING KEN KEN",
+    "Endereco": "R. CONSTANTE RAMOS - 23 - LOJA B - COPACABANA - 22051-011 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9750864,
+    "Longitude": -43.2272796,
+    "Nome": "TALHO CAFE",
+    "Endereco": "RUA MARQUES DE SAO VICENTE - 10 - LOJA E - GAVEA - 22451-040 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.984833,
+    "Longitude": -43.2256173,
+    "Nome": "TALHO CAPIXABA",
+    "Endereco": "Avenida Ataulfo de Paiva - 1022 - Leblon - 22440-032 - Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.9650053,
+    "Longitude": -43.2185524,
+    "Nome": "Mundo Verde Jardim Botânico ",
+    "Endereco": "R. JARDIM BOTANICO, 700, LOJA B, 22461-000, Jardim Botânico, Rio de Janeiro, RJ"
+  },
+  {
+    "Latitude": -22.9603578,
+    "Longitude": -43.2071337,
+    "Nome": "Mercado Cris Mar",
+    "Endereco": "R JARDIM BOTANICO, 178, LOJA A E B, 22461-000, Rio de Janeiro - RJ"
+  },
+  {
+    "Latitude": -22.5061722,
+    "Longitude": -44.0928001,
+    "Nome": "Royal Aterrado",
+    "Endereco": "AV PAULO DE FRONTIN, 669, ATERRADO, Volta Redonda - RJ, 27213-270"
+  },
+  {
+    "Latitude": -22.4703587,
+    "Longitude": -44.4607426,
+    "Nome": "Empório Royale",
+    "Endereco": "Rua Fluminense, 40, Vila Julieta, Resende, RJ, 27520-240"
+  },
+  {
+    "Latitude": -22.5105381,
+    "Longitude": -44.0828609,
+    "Nome": "Empório Royale",
+    "Endereco": "R. Cel. Camilo de Assis Pereira, 156 - Jardim Amalia, Volta Redonda - RJ, 27251-240"
+  },
+  {
+    "Latitude": -22.7443286,
+    "Longitude": -43.4381097,
+    "Nome": "Royal Emise",
+    "Endereco": "Estrada Deputado Darcílio Ayres Raunheitti, 150, Nova Iguaçu - RJ, 26012-315"
+  },
+  {
+    "Latitude": -29.1711088,
+    "Longitude": -51.51226,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Rua 13 de Maio, 877 - Centro, Bento Gonçalves, RS, 95700-000"
+  },
+  {
+    "Latitude": -29.1726768,
+    "Longitude": -51.5204568,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Rua Duque de Caxias, 35 - Cidade Alta, Bento Gonçalves, RS, 95700-000"
+  },
+  {
+    "Latitude": -29.16508129999999,
+    "Longitude": -51.5169584,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Rua Marechal Deodoro, 260 - Centro, Bento Gonçalves, RS, 95700-000"
+  },
+  {
+    "Latitude": -29.1792386,
+    "Longitude": -51.5135186,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Rua Brasília 53 - Botafogo, Bento Gonçalves, RS, 95700-000"
+  },
+  {
+    "Latitude": -29.1453304,
+    "Longitude": -51.52966259999999,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Av. Sao Roque, 729 - Universitário, Bento Gonçalves, RS, 95700-000"
+  },
+  {
+    "Latitude": -29.16571029999999,
+    "Longitude": -51.51247619999999,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Praça Vico Barbieri, nº 510 - Centro, Bento Gonçalves, RS, 95700-000 "
+  },
+  {
+    "Latitude": -29.2539137,
+    "Longitude": -51.5304914,
+    "Nome": "SUPER APOLO ",
+    "Endereco": "Rua João Pessoa, 58 - Centro, Garibaldi, RS, 95720-000"
   }
 ]

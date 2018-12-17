@@ -5,9 +5,9 @@
 <div class="map-section">
   <h2>Encontre o Keiff mais próximo de você!</h2>
 
-  <form action="/">
-    <input type="text" placeholder="Digite um endereço ou CEP">
-    <button>Pesquisar</button>
+  <form>
+    <input type="text" placeholder="Digite um endereço ou CEP" #search autocorrect="off" autocapitalize="off" spellcheck="off">
+    <button type="button">Pesquisar</button>
   </form>
 
   <div class="address-list">
@@ -36,6 +36,10 @@
     </agm-marker>
   </agm-map>
 
+</div>
+
+<div class="img-footer">
+  
 </div>
 
 <app-footer bgColor="pink"></app-footer>

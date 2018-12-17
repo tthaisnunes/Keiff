@@ -16,14 +16,15 @@
 }
 
 .map-section {
-  min-height: 100vh;
+  min-height: 100vh; 
   max-width: 1170px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 60px 0;
+  padding: 60px 0 60px;
+  
   h2 {
     font-size: 28pt;
     color: $pink;
@@ -66,9 +67,24 @@
         font-weight: bold;
         text-decoration: none;
         cursor: pointer;
+        min-width: 120px;
+        display: inline-block;
+        text-align: center;
       }
     }
   }
+}
+
+.content-map {
+  max-width: 80%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.img-footer {
+  background: url(../../../assets/images/pattern-pink-02.svg) bottom repeat-x white;
+  background-size: 50em;
+  height: 130px;
 }
 
 agm-map {

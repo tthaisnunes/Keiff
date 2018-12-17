@@ -35,7 +35,7 @@ import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
     HttpModule,
 		HttpClientModule,
     BrowserAnimationsModule,
-    AgmCoreModule.forRoot({apiKey: 'AIzaSyBv2Pr-oQoTF9UuMvlxRXvtFyyonlMOHMU'}),
+    AgmCoreModule.forRoot({apiKey: 'AIzaSyBv2Pr-oQoTF9UuMvlxRXvtFyyonlMOHMU', libraries: ["places"]}),
     AgmSnazzyInfoWindowModule
   ],
   providers: [
